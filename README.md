@@ -1,4 +1,4 @@
-# Sky Travel App
+# Travel App
 
 Travel App is a travel web application with a static HTML/CSS/JS frontend and a Flask backend. It includes trip planning, destination exploration, guide booking, translation tools, admin workflows, and payment-related booking flows.
 
